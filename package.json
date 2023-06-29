@@ -1,0 +1,22 @@
+{
+  "name": "js-unit-testing-academind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnydutra/js-unit-testing-academind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnydutra/js-unit-testing-academind/issues"
+  },
+  "homepage": "https://github.com/johnnydutra/js-unit-testing-academind#readme",
+  "devDependencies": {
+    "vitest": "^0.32.2"
+  }
+}
